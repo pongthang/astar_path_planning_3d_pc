@@ -27,7 +27,7 @@ The output of the above should be something like this.
 
 <img src="https://github.com/pongthang/astar_path_planning_3d_pc/assets/57061570/4f8e484a-5e20-4fc9-b06b-4055ebb6ec5d" alt="My Image" width="750" height="400">
 
-* There will two shperes - green one is for starting point and blue one is the endpoint.
+* There will two shperes - green one is for starting point and red one is the endpoint.
 * Move the two shperes apart such that they both touch the points in the point cloud.
 * Click the checkbox and it will start the path finding.
 * Wait for sometimes and you will get the generated path.
